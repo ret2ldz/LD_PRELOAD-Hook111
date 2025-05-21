@@ -22,28 +22,6 @@ unset LD_PRELOAD
 ./test_app
 unset LD_PRELOAD
 [HOOK_LIB_INFO] Initializing hooks (v3.2)...
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
-[HOOK_SNPRINTF_FALLBACK_S] originals NULL or in init.
 [HOOK_LIB_INFO] All hooks initialized (v3.2).
 [*]Test App: Starting...
 [*]Test App: Allocating memory (p1)...
